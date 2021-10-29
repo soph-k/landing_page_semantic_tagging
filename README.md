@@ -1,4 +1,4 @@
-# # Semantic Tagging 
+# Semantic Tagging 
 
 <p align="center">
     <img src="https://img.shields.io/github/repo-size/soph-k/semantic_tagging"/>
