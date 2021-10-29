@@ -26,11 +26,6 @@ including Horiseon logo, naviagtion bar, hero, cards, and side bar with informat
 [Live Demo](https://soph-k.github.io/semantic_tagging/)
 
 
-# Screen Shot
-
-![Preview Of Horiseon Home Webpage](assets/images/horiseon-homepage-screenshot.png)
-
-
 ## Link to Repo Page
 
 [Repo](https://github.com/soph-k/semantic_tagging) 
